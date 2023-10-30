@@ -1,0 +1,42 @@
+body{
+    background-color:pink;
+}
+.first{
+    display: flex;
+    
+}
+#heading{
+    font-style: italic;
+    font-size: 50px;
+    padding-left: 35%;
+    padding-top: 4%;
+    padding-bottom: 3%;
+    color:rgb(223, 17, 51);
+}
+#para1{
+    padding-top: 10%;
+    padding-left: 3%;
+    color: rgb(78, 78, 190);
+}
+#para2{
+    padding-left: 50%;
+    color:rgb(247, 54, 247);
+}
+#img1{
+    border-radius: 25%;
+    border-style: hidden;
+}
+#sub-part{
+    border:solid;
+    border-color: white;
+    margin-top: 10%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-style: italic;
+    margin-left: 50px;
+    margin-right: 50px;
+    box-shadow: 0px 10px 22px 0px;
+    border-radius: 5%;
+    background-color: aliceblue;
+    
+}
